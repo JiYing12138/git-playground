@@ -1,2 +1,1 @@
-Hello world
-Hello from the feature branch
+Version from main branch
